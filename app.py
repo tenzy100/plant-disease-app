@@ -167,7 +167,7 @@ def get_chatbot_response(disease_name, question, lang_code, disease_data):
     """Generate chatbot response using disease info + OpenAI API."""
     try:
         from openai import OpenAI
-        client = OpenAI()
+        client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
         lang_names = {"en": "English", "hi": "Hindi", "kn": "Kannada"}
         lang = lang_names.get(lang_code, "English")
