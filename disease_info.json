@@ -1,0 +1,392 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "en": {
+      "disease": "Bacterial Spot",
+      "plant": "Bell Pepper",
+      "cause": "Caused by Xanthomonas campestris bacteria, spreads through contaminated seeds, rain splash, and warm humid conditions.",
+      "symptoms": "Small, dark, water-soaked spots on leaves and fruit. Leaves may turn yellow and drop prematurely.",
+      "treatment": "Apply copper-based bactericides. Remove and destroy infected plant parts. Use disease-free seeds and transplants.",
+      "prevention": "Rotate crops every 2-3 years. Avoid overhead irrigation. Ensure good air circulation between plants. Use resistant varieties."
+    },
+    "hi": {
+      "disease": "बैक्टीरियल स्पॉट",
+      "plant": "शिमला मिर्च",
+      "cause": "ज़ैंथोमोनास कैम्पेस्ट्रिस बैक्टीरिया के कारण होता है, दूषित बीज, बारिश की बूंदों और गर्म नम परिस्थितियों से फैलता है।",
+      "symptoms": "पत्तियों और फलों पर छोटे, गहरे, पानी जैसे धब्बे। पत्तियां पीली होकर समय से पहले गिर सकती हैं।",
+      "treatment": "तांबा आधारित जीवाणुनाशक का प्रयोग करें। संक्रमित पौधे के हिस्सों को हटाकर नष्ट करें। रोग मुक्त बीज और पौध का उपयोग करें।",
+      "prevention": "हर 2-3 साल में फसल चक्र अपनाएं। ऊपर से सिंचाई से बचें। पौधों के बीच अच्छा वायु संचार सुनिश्चित करें। प्रतिरोधी किस्मों का उपयोग करें।"
+    },
+    "kn": {
+      "disease": "ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಸ್ಪಾಟ್",
+      "plant": "ದೊಡ್ಡ ಮೆಣಸಿನಕಾಯಿ",
+      "cause": "ಝಾಂಥೋಮೊನಾಸ್ ಕ್ಯಾಂಪೆಸ್ಟ್ರಿಸ್ ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಕಲುಷಿತ ಬೀಜಗಳು, ಮಳೆ ಹನಿಗಳು ಮತ್ತು ಬೆಚ್ಚಗಿನ ತೇವಾಂಶ ಪರಿಸ್ಥಿತಿಗಳಿಂದ ಹರಡುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಗಳು ಮತ್ತು ಹಣ್ಣುಗಳ ಮೇಲೆ ಸಣ್ಣ, ಗಾಢ, ನೀರಿನಂತಹ ಚುಕ್ಕೆಗಳು. ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಅಕಾಲಿಕವಾಗಿ ಉದುರಬಹುದು.",
+      "treatment": "ತಾಮ್ರ ಆಧಾರಿತ ಬ್ಯಾಕ್ಟೀರಿಯಾನಾಶಕ ಬಳಸಿ. ಸೋಂಕಿತ ಸಸ್ಯ ಭಾಗಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ. ರೋಗಮುಕ್ತ ಬೀಜಗಳು ಮತ್ತು ಸಸಿಗಳನ್ನು ಬಳಸಿ.",
+      "prevention": "ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ. ಮೇಲಿನಿಂದ ನೀರಾವರಿ ತಪ್ಪಿಸಿ. ಸಸ್ಯಗಳ ನಡುವೆ ಉತ್ತಮ ಗಾಳಿ ಚಲಾವಣೆ ಖಚಿತಪಡಿಸಿ."
+    }
+  },
+  "Pepper__bell___healthy": {
+    "en": {
+      "disease": "Healthy",
+      "plant": "Bell Pepper",
+      "cause": "No disease detected.",
+      "symptoms": "No symptoms. The plant appears healthy with normal green foliage.",
+      "treatment": "No treatment needed. Continue regular care and maintenance.",
+      "prevention": "Maintain proper watering schedule. Apply balanced fertilizer regularly. Monitor for early signs of disease."
+    },
+    "hi": {
+      "disease": "स्वस्थ",
+      "plant": "शिमला मिर्च",
+      "cause": "कोई बीमारी नहीं पाई गई।",
+      "symptoms": "कोई लक्षण नहीं। पौधा सामान्य हरी पत्तियों के साथ स्वस्थ दिखता है।",
+      "treatment": "किसी उपचार की आवश्यकता नहीं। नियमित देखभाल और रखरखाव जारी रखें।",
+      "prevention": "उचित सिंचाई कार्यक्रम बनाए रखें। नियमित रूप से संतुलित उर्वरक दें। रोग के शुरुआती संकेतों पर नज़र रखें।"
+    },
+    "kn": {
+      "disease": "ಆರೋಗ್ಯಕರ",
+      "plant": "ದೊಡ್ಡ ಮೆಣಸಿನಕಾಯಿ",
+      "cause": "ಯಾವುದೇ ರೋಗ ಪತ್ತೆಯಾಗಿಲ್ಲ.",
+      "symptoms": "ಯಾವುದೇ ಲಕ್ಷಣಗಳಿಲ್ಲ. ಸಸ್ಯವು ಸಾಮಾನ್ಯ ಹಸಿರು ಎಲೆಗಳೊಂದಿಗೆ ಆರೋಗ್ಯಕರವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತ ಆರೈಕೆ ಮತ್ತು ನಿರ್ವಹಣೆ ಮುಂದುವರಿಸಿ.",
+      "prevention": "ಸರಿಯಾದ ನೀರಾವರಿ ವೇಳಾಪಟ್ಟಿ ನಿರ್ವಹಿಸಿ. ನಿಯಮಿತವಾಗಿ ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ಹಾಕಿ. ರೋಗದ ಆರಂಭಿಕ ಚಿಹ್ನೆಗಳನ್ನು ಗಮನಿಸಿ."
+    }
+  },
+  "Potato___Early_blight": {
+    "en": {
+      "disease": "Early Blight",
+      "plant": "Potato",
+      "cause": "Caused by Alternaria solani fungus. Thrives in warm temperatures (24-29°C) with alternating wet and dry periods.",
+      "symptoms": "Dark brown to black concentric rings (target-like spots) on older leaves first. Leaves may yellow and drop.",
+      "treatment": "Apply chlorothalonil or mancozeb fungicide. Remove severely infected leaves. Ensure adequate plant nutrition.",
+      "prevention": "Use certified disease-free seed potatoes. Maintain proper plant spacing. Apply mulch to prevent soil splash. Rotate crops every 3 years."
+    },
+    "hi": {
+      "disease": "अर्ली ब्लाइट",
+      "plant": "आलू",
+      "cause": "अल्टरनेरिया सोलानी कवक के कारण होता है। गर्म तापमान (24-29°C) और बारी-बारी गीले और सूखे काल में पनपता है।",
+      "symptoms": "पुरानी पत्तियों पर पहले गहरे भूरे से काले संकेंद्रित वलय (लक्ष्य जैसे धब्बे)। पत्तियां पीली होकर गिर सकती हैं।",
+      "treatment": "क्लोरोथालोनिल या मैंकोज़ेब कवकनाशी का प्रयोग करें। गंभीर रूप से संक्रमित पत्तियों को हटाएं। पर्याप्त पोषण सुनिश्चित करें।",
+      "prevention": "प्रमाणित रोग मुक्त बीज आलू का उपयोग करें। उचित पौधों का अंतर बनाए रखें। मिट्टी के छिड़काव को रोकने के लिए मल्चिंग करें। हर 3 साल में फसल चक्र अपनाएं।"
+    },
+    "kn": {
+      "disease": "ಅರ್ಲಿ ಬ್ಲೈಟ್",
+      "plant": "ಆಲೂಗಡ್ಡೆ",
+      "cause": "ಆಲ್ಟರ್ನೇರಿಯಾ ಸೊಲಾನಿ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಬೆಚ್ಚಗಿನ ತಾಪಮಾನ (24-29°C) ಮತ್ತು ಪರ್ಯಾಯ ಒದ್ದೆ ಮತ್ತು ಒಣ ಅವಧಿಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "symptoms": "ಹಳೆಯ ಎಲೆಗಳ ಮೇಲೆ ಮೊದಲು ಗಾಢ ಕಂದು ಅಥವಾ ಕಪ್ಪು ಕೇಂದ್ರೀಕೃತ ವಲಯಗಳು (ಗುರಿಯಂತಹ ಚುಕ್ಕೆಗಳು). ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಉದುರಬಹುದು.",
+      "treatment": "ಕ್ಲೋರೋಥಲೋನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ. ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ. ಸಾಕಷ್ಟು ಸಸ್ಯ ಪೋಷಣೆ ಖಚಿತಪಡಿಸಿ.",
+      "prevention": "ಪ್ರಮಾಣಿತ ರೋಗಮುಕ್ತ ಬೀಜ ಆಲೂಗಡ್ಡೆ ಬಳಸಿ. ಸರಿಯಾದ ಸಸ್ಯ ಅಂತರ ಕಾಪಾಡಿ. ಮಣ್ಣಿನ ಸಿಡಿತವನ್ನು ತಡೆಯಲು ಹೊದಿಕೆ ಹಾಕಿ. ಪ್ರತಿ 3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ."
+    }
+  },
+  "Potato___Late_blight": {
+    "en": {
+      "disease": "Late Blight",
+      "plant": "Potato",
+      "cause": "Caused by Phytophthora infestans oomycete. Spreads rapidly in cool, moist conditions (10-25°C with high humidity).",
+      "symptoms": "Large, irregular, water-soaked dark patches on leaves. White fuzzy growth on leaf undersides in humid conditions. Tubers may rot.",
+      "treatment": "Apply metalaxyl or phosphorous acid-based fungicide immediately. Remove and destroy all infected plants. Do not compost infected material.",
+      "prevention": "Plant resistant varieties. Ensure good drainage. Avoid overhead watering. Destroy volunteer potato plants. Monitor weather conditions closely."
+    },
+    "hi": {
+      "disease": "लेट ब्लाइट",
+      "plant": "आलू",
+      "cause": "फाइटोफ्थोरा इन्फेस्टन्स ऊमाइसीट के कारण होता है। ठंडी, नम परिस्थितियों (10-25°C उच्च आर्द्रता के साथ) में तेजी से फैलता है।",
+      "symptoms": "पत्तियों पर बड़े, अनियमित, पानी जैसे गहरे धब्बे। नम परिस्थितियों में पत्तियों के नीचे सफेद रोएंदार वृद्धि। कंद सड़ सकते हैं।",
+      "treatment": "तुरंत मेटालेक्सिल या फॉस्फोरस एसिड आधारित कवकनाशी लगाएं। सभी संक्रमित पौधों को हटाकर नष्ट करें। संक्रमित सामग्री की खाद न बनाएं।",
+      "prevention": "प्रतिरोधी किस्में लगाएं। अच्छी जल निकासी सुनिश्चित करें। ऊपर से पानी देने से बचें। स्वयंसेवी आलू पौधों को नष्ट करें। मौसम की स्थिति पर नज़र रखें।"
+    },
+    "kn": {
+      "disease": "ಲೇಟ್ ಬ್ಲೈಟ್",
+      "plant": "ಆಲೂಗಡ್ಡೆ",
+      "cause": "ಫೈಟೋಫ್ಥೋರಾ ಇನ್ಫೆಸ್ಟನ್ಸ್ ಊಮೈಸೀಟ್‌ನಿಂದ ಉಂಟಾಗುತ್ತದೆ. ತಂಪಾದ, ತೇವ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ (10-25°C ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆಯೊಂದಿಗೆ) ವೇಗವಾಗಿ ಹರಡುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಗಳ ಮೇಲೆ ದೊಡ್ಡ, ಅನಿಯಮಿತ, ನೀರಿನಂತಹ ಗಾಢ ಕಲೆಗಳು. ತೇವ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಬಿಳಿ ರೋಮಗಳಂತಹ ಬೆಳವಣಿಗೆ. ಗಡ್ಡೆಗಳು ಕೊಳೆಯಬಹುದು.",
+      "treatment": "ತಕ್ಷಣ ಮೆಟಲಾಕ್ಸಿಲ್ ಅಥವಾ ಫಾಸ್ಫರಸ್ ಆಮ್ಲ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕ ಹಚ್ಚಿ. ಎಲ್ಲಾ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ. ಸೋಂಕಿತ ವಸ್ತುಗಳನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಬೇಡಿ.",
+      "prevention": "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿ. ಉತ್ತಮ ಒಳಚರಂಡಿ ಖಚಿತಪಡಿಸಿ. ಮೇಲಿನಿಂದ ನೀರಾವರಿ ತಪ್ಪಿಸಿ. ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ನಿಕಟವಾಗಿ ಗಮನಿಸಿ."
+    }
+  },
+  "Potato___healthy": {
+    "en": {
+      "disease": "Healthy",
+      "plant": "Potato",
+      "cause": "No disease detected.",
+      "symptoms": "No symptoms. The plant appears healthy with normal green foliage.",
+      "treatment": "No treatment needed. Continue regular care and maintenance.",
+      "prevention": "Maintain proper watering and fertilization. Hill soil around stems regularly. Monitor for pests and early disease signs."
+    },
+    "hi": {
+      "disease": "स्वस्थ",
+      "plant": "आलू",
+      "cause": "कोई बीमारी नहीं पाई गई।",
+      "symptoms": "कोई लक्षण नहीं। पौधा सामान्य हरी पत्तियों के साथ स्वस्थ दिखता है।",
+      "treatment": "किसी उपचार की आवश्यकता नहीं। नियमित देखभाल और रखरखाव जारी रखें।",
+      "prevention": "उचित सिंचाई और उर्वरक बनाए रखें। तनों के चारों ओर नियमित रूप से मिट्टी चढ़ाएं। कीटों और रोग के शुरुआती संकेतों पर नज़र रखें।"
+    },
+    "kn": {
+      "disease": "ಆರೋಗ್ಯಕರ",
+      "plant": "ಆಲೂಗಡ್ಡೆ",
+      "cause": "ಯಾವುದೇ ರೋಗ ಪತ್ತೆಯಾಗಿಲ್ಲ.",
+      "symptoms": "ಯಾವುದೇ ಲಕ್ಷಣಗಳಿಲ್ಲ. ಸಸ್ಯವು ಸಾಮಾನ್ಯ ಹಸಿರು ಎಲೆಗಳೊಂದಿಗೆ ಆರೋಗ್ಯಕರವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತ ಆರೈಕೆ ಮತ್ತು ನಿರ್ವಹಣೆ ಮುಂದುವರಿಸಿ.",
+      "prevention": "ಸರಿಯಾದ ನೀರಾವರಿ ಮತ್ತು ಗೊಬ್ಬರ ನಿರ್ವಹಿಸಿ. ಕಾಂಡಗಳ ಸುತ್ತ ನಿಯಮಿತವಾಗಿ ಮಣ್ಣು ಏರಿಸಿ. ಕೀಟಗಳು ಮತ್ತು ಆರಂಭಿಕ ರೋಗ ಚಿಹ್ನೆಗಳನ್ನು ಗಮನಿಸಿ."
+    }
+  },
+  "Tomato_Bacterial_spot": {
+    "en": {
+      "disease": "Bacterial Spot",
+      "plant": "Tomato",
+      "cause": "Caused by Xanthomonas vesicatoria bacteria. Spreads through infected seeds, transplants, rain splash, and contaminated tools.",
+      "symptoms": "Small, dark, greasy-looking spots on leaves. Spots may have yellow halos. Fruit develops raised, scabby lesions.",
+      "treatment": "Apply copper-based sprays mixed with mancozeb. Remove heavily infected plants. Avoid working with plants when wet.",
+      "prevention": "Use disease-free seeds and transplants. Rotate crops for 2-3 years. Disinfect garden tools. Avoid overhead irrigation."
+    },
+    "hi": {
+      "disease": "बैक्टीरियल स्पॉट",
+      "plant": "टमाटर",
+      "cause": "ज़ैंथोमोनास वेसिकेटोरिया बैक्टीरिया के कारण होता है। संक्रमित बीज, पौध, बारिश की बूंदों और दूषित उपकरणों से फैलता है।",
+      "symptoms": "पत्तियों पर छोटे, गहरे, तैलीय दिखने वाले धब्बे। धब्बों के चारों ओर पीले घेरे हो सकते हैं। फलों पर उभरे, खुरदुरे घाव विकसित होते हैं।",
+      "treatment": "मैंकोज़ेब के साथ मिश्रित तांबा आधारित स्प्रे लगाएं। अधिक संक्रमित पौधों को हटाएं। गीले होने पर पौधों के साथ काम करने से बचें।",
+      "prevention": "रोग मुक्त बीज और पौध का उपयोग करें। 2-3 साल के लिए फसल चक्र अपनाएं। बागवानी उपकरणों को कीटाणुरहित करें। ऊपर से सिंचाई से बचें।"
+    },
+    "kn": {
+      "disease": "ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಸ್ಪಾಟ್",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಝಾಂಥೋಮೊನಾಸ್ ವೆಸಿಕೇಟೋರಿಯಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಸೋಂಕಿತ ಬೀಜಗಳು, ಸಸಿಗಳು, ಮಳೆ ಹನಿಗಳು ಮತ್ತು ಕಲುಷಿತ ಉಪಕರಣಗಳಿಂದ ಹರಡುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ, ಗಾಢ, ಎಣ್ಣೆಯಂತೆ ಕಾಣುವ ಚುಕ್ಕೆಗಳು. ಚುಕ್ಕೆಗಳ ಸುತ್ತ ಹಳದಿ ವಲಯಗಳಿರಬಹುದು. ಹಣ್ಣುಗಳ ಮೇಲೆ ಉಬ್ಬಿದ, ಒರಟಾದ ಗಾಯಗಳು ಬೆಳೆಯುತ್ತವೆ.",
+      "treatment": "ಮ್ಯಾಂಕೋಜೆಬ್‌ನೊಂದಿಗೆ ಬೆರೆಸಿದ ತಾಮ್ರ ಆಧಾರಿತ ಸಿಂಪಡಣೆ ಮಾಡಿ. ಹೆಚ್ಚು ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆಯಿರಿ. ಒದ್ದೆಯಾಗಿರುವಾಗ ಸಸ್ಯಗಳೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+      "prevention": "ರೋಗಮುಕ್ತ ಬೀಜಗಳು ಮತ್ತು ಸಸಿಗಳನ್ನು ಬಳಸಿ. 2-3 ವರ್ಷಗಳ ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ. ತೋಟಗಾರಿಕೆ ಉಪಕರಣಗಳನ್ನು ಸೋಂಕುನಿವಾರಣೆ ಮಾಡಿ."
+    }
+  },
+  "Tomato_Early_blight": {
+    "en": {
+      "disease": "Early Blight",
+      "plant": "Tomato",
+      "cause": "Caused by Alternaria solani fungus. Favored by warm weather, heavy dew, and frequent rainfall.",
+      "symptoms": "Concentric dark rings forming target-like pattern on lower leaves first. Leaves yellow and drop. Fruit may develop dark, leathery spots near stem.",
+      "treatment": "Apply chlorothalonil, mancozeb, or copper fungicide at first sign. Remove infected lower leaves. Stake plants to improve air flow.",
+      "prevention": "Mulch around base to prevent soil splash. Water at base, not overhead. Rotate crops. Provide adequate spacing between plants."
+    },
+    "hi": {
+      "disease": "अर्ली ब्लाइट",
+      "plant": "टमाटर",
+      "cause": "अल्टरनेरिया सोलानी कवक के कारण होता है। गर्म मौसम, भारी ओस और बार-बार बारिश में पनपता है।",
+      "symptoms": "निचली पत्तियों पर पहले लक्ष्य जैसे पैटर्न बनाते संकेंद्रित गहरे वलय। पत्तियां पीली होकर गिरती हैं। फलों पर तने के पास गहरे, चमड़े जैसे धब्बे हो सकते हैं।",
+      "treatment": "पहले संकेत पर क्लोरोथालोनिल, मैंकोज़ेब या तांबा कवकनाशी लगाएं। संक्रमित निचली पत्तियों को हटाएं। हवा के प्रवाह को बेहतर करने के लिए पौधों को सहारा दें।",
+      "prevention": "मिट्टी के छिड़काव को रोकने के लिए आधार के चारों ओर मल्चिंग करें। ऊपर से नहीं, आधार पर पानी दें। फसल चक्र अपनाएं। पौधों के बीच पर्याप्त दूरी रखें।"
+    },
+    "kn": {
+      "disease": "ಅರ್ಲಿ ಬ್ಲೈಟ್",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಆಲ್ಟರ್ನೇರಿಯಾ ಸೊಲಾನಿ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಬೆಚ್ಚಗಿನ ಹವಾಮಾನ, ಭಾರೀ ಇಬ್ಬನಿ ಮತ್ತು ಆಗಾಗ್ಗೆ ಮಳೆಯಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "symptoms": "ಕೆಳಗಿನ ಎಲೆಗಳ ಮೇಲೆ ಮೊದಲು ಗುರಿಯಂತಹ ಮಾದರಿ ರಚಿಸುವ ಕೇಂದ್ರೀಕೃತ ಗಾಢ ವಲಯಗಳು. ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಉದುರುತ್ತವೆ.",
+      "treatment": "ಮೊದಲ ಚಿಹ್ನೆಯಲ್ಲಿ ಕ್ಲೋರೋಥಲೋನಿಲ್, ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ತಾಮ್ರ ಶಿಲೀಂಧ್ರನಾಶಕ ಹಚ್ಚಿ. ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ. ಗಾಳಿ ಹರಿವು ಸುಧಾರಿಸಲು ಸಸ್ಯಗಳಿಗೆ ಆಧಾರ ಕೊಡಿ.",
+      "prevention": "ಮಣ್ಣಿನ ಸಿಡಿತವನ್ನು ತಡೆಯಲು ಬುಡದ ಸುತ್ತ ಹೊದಿಕೆ ಹಾಕಿ. ಮೇಲಿನಿಂದ ಅಲ್ಲ, ಬುಡದಲ್ಲಿ ನೀರು ಹಾಕಿ. ಬೆಳೆ ಸರದಿ ಅನುಸರಿಸಿ."
+    }
+  },
+  "Tomato_Late_blight": {
+    "en": {
+      "disease": "Late Blight",
+      "plant": "Tomato",
+      "cause": "Caused by Phytophthora infestans. Spreads explosively in cool, wet weather. Can destroy entire fields in days.",
+      "symptoms": "Large, dark, water-soaked blotches on leaves and stems. White mold on leaf undersides. Fruit develops large, greasy brown spots and rots quickly.",
+      "treatment": "Apply metalaxyl-based or chlorothalonil fungicide immediately. Remove and destroy all infected plants. Do not compost infected material.",
+      "prevention": "Use resistant varieties. Ensure excellent air circulation. Avoid evening watering. Remove all plant debris after season. Monitor weather forecasts."
+    },
+    "hi": {
+      "disease": "लेट ब्लाइट",
+      "plant": "टमाटर",
+      "cause": "फाइटोफ्थोरा इन्फेस्टन्स के कारण होता है। ठंडे, गीले मौसम में विस्फोटक रूप से फैलता है। कुछ दिनों में पूरे खेत को नष्ट कर सकता है।",
+      "symptoms": "पत्तियों और तनों पर बड़े, गहरे, पानी जैसे धब्बे। पत्तियों के नीचे सफेद फफूंदी। फलों पर बड़े, चिकने भूरे धब्बे विकसित होते हैं और जल्दी सड़ जाते हैं।",
+      "treatment": "तुरंत मेटालेक्सिल या क्लोरोथालोनिल कवकनाशी लगाएं। सभी संक्रमित पौधों को हटाकर नष्ट करें। संक्रमित सामग्री की खाद न बनाएं।",
+      "prevention": "प्रतिरोधी किस्मों का उपयोग करें। उत्कृष्ट वायु संचार सुनिश्चित करें। शाम को पानी देने से बचें। मौसम के बाद सभी पौधों के अवशेष हटाएं।"
+    },
+    "kn": {
+      "disease": "ಲೇಟ್ ಬ್ಲೈಟ್",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಫೈಟೋಫ್ಥೋರಾ ಇನ್ಫೆಸ್ಟನ್ಸ್‌ನಿಂದ ಉಂಟಾಗುತ್ತದೆ. ತಂಪಾದ, ತೇವ ಹವಾಮಾನದಲ್ಲಿ ಸ್ಫೋಟಕವಾಗಿ ಹರಡುತ್ತದೆ. ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಇಡೀ ಹೊಲಗಳನ್ನು ನಾಶಮಾಡಬಹುದು.",
+      "symptoms": "ಎಲೆಗಳು ಮತ್ತು ಕಾಂಡಗಳ ಮೇಲೆ ದೊಡ್ಡ, ಗಾಢ, ನೀರಿನಂತಹ ಕಲೆಗಳು. ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಬಿಳಿ ಶಿಲೀಂಧ್ರ. ಹಣ್ಣುಗಳ ಮೇಲೆ ದೊಡ್ಡ ಕಂದು ಕಲೆಗಳು ಬೆಳೆದು ಬೇಗ ಕೊಳೆಯುತ್ತವೆ.",
+      "treatment": "ತಕ್ಷಣ ಮೆಟಲಾಕ್ಸಿಲ್ ಅಥವಾ ಕ್ಲೋರೋಥಲೋನಿಲ್ ಶಿಲೀಂಧ್ರನಾಶಕ ಹಚ್ಚಿ. ಎಲ್ಲಾ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ.",
+      "prevention": "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ. ಅತ್ಯುತ್ತಮ ಗಾಳಿ ಚಲಾವಣೆ ಖಚಿತಪಡಿಸಿ. ಸಂಜೆ ನೀರಾವರಿ ತಪ್ಪಿಸಿ. ಋತುವಿನ ನಂತರ ಎಲ್ಲಾ ಸಸ್ಯ ಅವಶೇಷಗಳನ್ನು ತೆಗೆಯಿರಿ."
+    }
+  },
+  "Tomato_Leaf_Mold": {
+    "en": {
+      "disease": "Leaf Mold",
+      "plant": "Tomato",
+      "cause": "Caused by Passalora fulva (formerly Fulvia fulva) fungus. Thrives in high humidity (>85%) and warm temperatures in greenhouses.",
+      "symptoms": "Pale green to yellow spots on upper leaf surface. Olive-green to brown velvety mold on leaf undersides. Leaves curl, wither, and drop.",
+      "treatment": "Improve ventilation immediately. Apply chlorothalonil or copper-based fungicide. Remove severely affected leaves.",
+      "prevention": "Maintain humidity below 85%. Ensure good air circulation. Avoid leaf wetness. Use resistant varieties. Space plants adequately."
+    },
+    "hi": {
+      "disease": "लीफ मोल्ड",
+      "plant": "टमाटर",
+      "cause": "पैसालोरा फुल्वा कवक के कारण होता है। उच्च आर्द्रता (>85%) और ग्रीनहाउस में गर्म तापमान में पनपता है।",
+      "symptoms": "पत्ती की ऊपरी सतह पर हल्के हरे से पीले धब्बे। पत्तियों के नीचे जैतूनी-हरे से भूरे मखमली फफूंदी। पत्तियां मुड़ जाती हैं, मुरझा जाती हैं और गिर जाती हैं।",
+      "treatment": "तुरंत वेंटिलेशन में सुधार करें। क्लोरोथालोनिल या तांबा आधारित कवकनाशी लगाएं। गंभीर रूप से प्रभावित पत्तियों को हटाएं।",
+      "prevention": "आर्द्रता 85% से नीचे रखें। अच्छा वायु संचार सुनिश्चित करें। पत्तियों की गीलापन से बचें। प्रतिरोधी किस्मों का उपयोग करें।"
+    },
+    "kn": {
+      "disease": "ಲೀಫ್ ಮೋಲ್ಡ್",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಪಸ್ಸಲೋರಾ ಫುಲ್ವಾ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಹೆಚ್ಚಿನ ಆರ್ದ್ರತೆ (>85%) ಮತ್ತು ಹಸಿರುಮನೆಗಳಲ್ಲಿ ಬೆಚ್ಚಗಿನ ತಾಪಮಾನದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ತಿಳಿ ಹಸಿರು ಅಥವಾ ಹಳದಿ ಚುಕ್ಕೆಗಳು. ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಆಲಿವ್-ಹಸಿರು ಅಥವಾ ಕಂದು ಮೃದು ಶಿಲೀಂಧ್ರ. ಎಲೆಗಳು ಮುದುಡಿ, ಒಣಗಿ ಉದುರುತ್ತವೆ.",
+      "treatment": "ತಕ್ಷಣ ಗಾಳಿ ಆಡುವಿಕೆ ಸುಧಾರಿಸಿ. ಕ್ಲೋರೋಥಲೋನಿಲ್ ಅಥವಾ ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕ ಹಚ್ಚಿ. ತೀವ್ರವಾಗಿ ಪ್ರಭಾವಿತ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ.",
+      "prevention": "ಆರ್ದ್ರತೆಯನ್ನು 85% ಕೆಳಗೆ ಇರಿಸಿ. ಉತ್ತಮ ಗಾಳಿ ಚಲಾವಣೆ ಖಚಿತಪಡಿಸಿ. ಎಲೆ ಒದ್ದೆತನ ತಪ್ಪಿಸಿ. ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ."
+    }
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "en": {
+      "disease": "Septoria Leaf Spot",
+      "plant": "Tomato",
+      "cause": "Caused by Septoria lycopersici fungus. Spreads through rain splash, overhead watering, and contaminated tools. Favors warm, wet conditions.",
+      "symptoms": "Many small circular spots (1-3mm) with dark brown borders and gray centers on lower leaves. Tiny dark dots (pycnidia) visible in spot centers.",
+      "treatment": "Apply chlorothalonil or copper fungicide every 7-10 days. Remove infected lower leaves. Avoid working with wet plants.",
+      "prevention": "Mulch to prevent soil splash. Water at plant base. Remove plant debris at end of season. Rotate crops for 3 years. Stake plants for air flow."
+    },
+    "hi": {
+      "disease": "सेप्टोरिया लीफ स्पॉट",
+      "plant": "टमाटर",
+      "cause": "सेप्टोरिया लाइकोपर्सिसी कवक के कारण होता है। बारिश की बूंदों, ऊपर से सिंचाई और दूषित उपकरणों से फैलता है।",
+      "symptoms": "निचली पत्तियों पर गहरे भूरे किनारों और भूरे केंद्रों वाले कई छोटे गोल धब्बे (1-3mm)। धब्बों के केंद्र में छोटे गहरे बिंदु (पिक्निडिया) दिखते हैं।",
+      "treatment": "हर 7-10 दिन में क्लोरोथालोनिल या तांबा कवकनाशी लगाएं। संक्रमित निचली पत्तियों को हटाएं। गीले पौधों के साथ काम करने से बचें।",
+      "prevention": "मिट्टी के छिड़काव को रोकने के लिए मल्चिंग करें। पौधे के आधार पर पानी दें। मौसम के अंत में पौधों के अवशेष हटाएं। 3 साल के लिए फसल चक्र अपनाएं।"
+    },
+    "kn": {
+      "disease": "ಸೆಪ್ಟೋರಿಯಾ ಲೀಫ್ ಸ್ಪಾಟ್",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಸೆಪ್ಟೋರಿಯಾ ಲೈಕೋಪರ್ಸಿಸಿ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಮಳೆ ಹನಿಗಳು, ಮೇಲಿನಿಂದ ನೀರಾವರಿ ಮತ್ತು ಕಲುಷಿತ ಉಪಕರಣಗಳಿಂದ ಹರಡುತ್ತದೆ.",
+      "symptoms": "ಕೆಳಗಿನ ಎಲೆಗಳ ಮೇಲೆ ಗಾಢ ಕಂದು ಅಂಚುಗಳು ಮತ್ತು ಬೂದು ಕೇಂದ್ರಗಳಿರುವ ಹಲವು ಸಣ್ಣ ವೃತ್ತಾಕಾರ ಚುಕ್ಕೆಗಳು (1-3mm).",
+      "treatment": "ಪ್ರತಿ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಕ್ಲೋರೋಥಲೋನಿಲ್ ಅಥವಾ ತಾಮ್ರ ಶಿಲೀಂಧ್ರನಾಶಕ ಹಚ್ಚಿ. ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ.",
+      "prevention": "ಮಣ್ಣಿನ ಸಿಡಿತವನ್ನು ತಡೆಯಲು ಹೊದಿಕೆ ಹಾಕಿ. ಸಸ್ಯದ ಬುಡದಲ್ಲಿ ನೀರು ಹಾಕಿ. ಋತುವಿನ ಕೊನೆಯಲ್ಲಿ ಸಸ್ಯ ಅವಶೇಷಗಳನ್ನು ತೆಗೆಯಿರಿ."
+    }
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "en": {
+      "disease": "Two-Spotted Spider Mite Infestation",
+      "plant": "Tomato",
+      "cause": "Caused by Tetranychus urticae mites. Thrives in hot, dry, dusty conditions. Mites are tiny and often go unnoticed until damage is severe.",
+      "symptoms": "Tiny yellow or white stippling on leaves. Fine webbing on leaf undersides. Leaves become bronzed, dry, and may drop. Severe cases cause plant decline.",
+      "treatment": "Spray with insecticidal soap or neem oil, targeting leaf undersides. Use miticides like abamectin for severe infestations. Increase humidity around plants.",
+      "prevention": "Keep plants well-watered and avoid drought stress. Wash dusty leaves periodically. Encourage natural predators like ladybugs. Avoid excessive nitrogen fertilizer."
+    },
+    "hi": {
+      "disease": "दो-चित्तीदार मकड़ी घुन का प्रकोप",
+      "plant": "टमाटर",
+      "cause": "टेट्रानिकस अर्टिके घुन के कारण होता है। गर्म, शुष्क, धूल भरी परिस्थितियों में पनपता है। घुन बहुत छोटे होते हैं और क्षति गंभीर होने तक अक्सर अनदेखे रहते हैं।",
+      "symptoms": "पत्तियों पर छोटे पीले या सफेद बिंदु। पत्तियों के नीचे बारीक जाले। पत्तियां कांस्य रंग की, सूखी हो जाती हैं और गिर सकती हैं।",
+      "treatment": "पत्तियों के नीचे की ओर कीटनाशक साबुन या नीम तेल का छिड़काव करें। गंभीर संक्रमण के लिए एबामेक्टिन जैसे माइटिसाइड का उपयोग करें। पौधों के आसपास आर्द्रता बढ़ाएं।",
+      "prevention": "पौधों को अच्छी तरह सिंचित रखें और सूखे के तनाव से बचें। समय-समय पर धूल भरी पत्तियों को धोएं। लेडीबग जैसे प्राकृतिक शिकारियों को प्रोत्साहित करें।"
+    },
+    "kn": {
+      "disease": "ಎರಡು-ಚುಕ್ಕೆ ಜೇಡ ಹುಳು ಮುತ್ತಿಕೊಳ್ಳುವಿಕೆ",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಟೆಟ್ರಾನಿಕಸ್ ಅರ್ಟಿಕೇ ಹುಳುಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಬಿಸಿ, ಒಣ, ಧೂಳಿನ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಹಳದಿ ಅಥವಾ ಬಿಳಿ ಚುಕ್ಕೆಗಳು. ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಸೂಕ್ಷ್ಮ ಬಲೆ. ಎಲೆಗಳು ಕಂಚಿನ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಒಣಗುತ್ತವೆ.",
+      "treatment": "ಎಲೆಗಳ ಕೆಳಭಾಗಕ್ಕೆ ಕೀಟನಾಶಕ ಸಾಬೂನು ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ. ತೀವ್ರ ಮುತ್ತಿಕೊಳ್ಳುವಿಕೆಗೆ ಅಬಾಮೆಕ್ಟಿನ್‌ನಂತಹ ಮೈಟಿಸೈಡ್ ಬಳಸಿ.",
+      "prevention": "ಸಸ್ಯಗಳಿಗೆ ಚೆನ್ನಾಗಿ ನೀರು ಹಾಕಿ ಮತ್ತು ಬರ ಒತ್ತಡ ತಪ್ಪಿಸಿ. ಧೂಳಿನ ಎಲೆಗಳನ್ನು ಆಗಾಗ್ಗೆ ತೊಳೆಯಿರಿ. ಲೇಡಿಬಗ್‌ಗಳಂತಹ ನೈಸರ್ಗಿಕ ಪರಭಕ್ಷಕಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿ."
+    }
+  },
+  "Tomato__Target_Spot": {
+    "en": {
+      "disease": "Target Spot",
+      "plant": "Tomato",
+      "cause": "Caused by Corynespora cassiicola fungus. Favors warm, humid conditions with frequent rain or overhead watering.",
+      "symptoms": "Small brown spots with concentric rings and yellow halos on leaves. Spots enlarge and may merge. Lower leaves affected first. Fruit may develop sunken spots.",
+      "treatment": "Apply mancozeb or chlorothalonil fungicide. Remove infected leaves. Improve air circulation by pruning and staking.",
+      "prevention": "Use resistant varieties. Ensure proper plant spacing. Avoid overhead irrigation. Remove crop debris after harvest. Rotate crops for 2-3 years."
+    },
+    "hi": {
+      "disease": "टारगेट स्पॉट",
+      "plant": "टमाटर",
+      "cause": "कोरीनेस्पोरा कैसीकोला कवक के कारण होता है। गर्म, नम परिस्थितियों में बार-बार बारिश या ऊपर से सिंचाई के साथ पनपता है।",
+      "symptoms": "पत्तियों पर संकेंद्रित वलय और पीले घेरों वाले छोटे भूरे धब्बे। धब्बे बड़े होकर मिल सकते हैं। निचली पत्तियां पहले प्रभावित होती हैं।",
+      "treatment": "मैंकोज़ेब या क्लोरोथालोनिल कवकनाशी लगाएं। संक्रमित पत्तियों को हटाएं। छंटाई और सहारा देकर वायु संचार में सुधार करें।",
+      "prevention": "प्रतिरोधी किस्मों का उपयोग करें। उचित पौधों का अंतर सुनिश्चित करें। ऊपर से सिंचाई से बचें। फसल कटाई के बाद अवशेष हटाएं।"
+    },
+    "kn": {
+      "disease": "ಟಾರ್ಗೆಟ್ ಸ್ಪಾಟ್",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಕೋರಿನೆಸ್ಪೋರಾ ಕ್ಯಾಸಿಕೋಲಾ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಬೆಚ್ಚಗಿನ, ತೇವ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಆಗಾಗ್ಗೆ ಮಳೆ ಅಥವಾ ಮೇಲಿನಿಂದ ನೀರಾವರಿಯೊಂದಿಗೆ ಬೆಳೆಯುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕೃತ ವಲಯಗಳು ಮತ್ತು ಹಳದಿ ವಲಯಗಳಿರುವ ಸಣ್ಣ ಕಂದು ಚುಕ್ಕೆಗಳು. ಚುಕ್ಕೆಗಳು ದೊಡ್ಡದಾಗಿ ವಿಲೀನಗೊಳ್ಳಬಹುದು.",
+      "treatment": "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕ್ಲೋರೋಥಲೋನಿಲ್ ಶಿಲೀಂಧ್ರನಾಶಕ ಹಚ್ಚಿ. ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿರಿ. ಕಡಿತ ಮತ್ತು ಆಧಾರ ನೀಡುವ ಮೂಲಕ ಗಾಳಿ ಚಲಾವಣೆ ಸುಧಾರಿಸಿ.",
+      "prevention": "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ. ಸರಿಯಾದ ಸಸ್ಯ ಅಂತರ ಖಚಿತಪಡಿಸಿ. ಮೇಲಿನಿಂದ ನೀರಾವರಿ ತಪ್ಪಿಸಿ. ಕೊಯ್ಲಿನ ನಂತರ ಬೆಳೆ ಅವಶೇಷಗಳನ್ನು ತೆಗೆಯಿರಿ."
+    }
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "en": {
+      "disease": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+      "plant": "Tomato",
+      "cause": "Caused by TYLCV transmitted by whiteflies (Bemisia tabaci). The virus cannot be cured once the plant is infected.",
+      "symptoms": "Leaves curl upward and become cupped. Leaves turn yellow at margins. Severe stunting of plant growth. Flowers drop and fruit production is drastically reduced.",
+      "treatment": "No cure exists for infected plants. Remove and destroy infected plants immediately. Control whitefly population with insecticidal soap, neem oil, or imidacloprid.",
+      "prevention": "Use TYLCV-resistant varieties. Install reflective mulch to repel whiteflies. Use yellow sticky traps. Cover seedlings with fine mesh netting. Remove weeds that harbor whiteflies."
+    },
+    "hi": {
+      "disease": "टमाटर पीली पत्ती कुंचन विषाणु (TYLCV)",
+      "plant": "टमाटर",
+      "cause": "सफेद मक्खी (बेमिसिया टबैसी) द्वारा प्रसारित TYLCV विषाणु के कारण होता है। एक बार संक्रमित होने पर विषाणु का इलाज नहीं हो सकता।",
+      "symptoms": "पत्तियां ऊपर की ओर मुड़ जाती हैं और कप जैसी हो जाती हैं। पत्तियों के किनारे पीले हो जाते हैं। पौधे की वृद्धि गंभीर रूप से रुक जाती है। फूल गिर जाते हैं और फल उत्पादन बहुत कम हो जाता है।",
+      "treatment": "संक्रमित पौधों का कोई इलाज नहीं है। संक्रमित पौधों को तुरंत हटाकर नष्ट करें। कीटनाशक साबुन, नीम तेल या इमिडाक्लोप्रिड से सफेद मक्खी की आबादी नियंत्रित करें।",
+      "prevention": "TYLCV प्रतिरोधी किस्मों का उपयोग करें। सफेद मक्खियों को भगाने के लिए परावर्तक मल्च लगाएं। पीले चिपचिपे जाल का उपयोग करें। पौधों को बारीक जाली से ढकें।"
+    },
+    "kn": {
+      "disease": "ಟೊಮೆಟೊ ಹಳದಿ ಎಲೆ ಮುದುಡು ವೈರಸ್ (TYLCV)",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಬಿಳಿ ನೊಣಗಳಿಂದ (ಬೆಮಿಸಿಯಾ ಟಬ್ಯಾಸಿ) ಹರಡುವ TYLCV ವೈರಸ್‌ನಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಒಮ್ಮೆ ಸೋಂಕಿತವಾದ ನಂತರ ವೈರಸ್ ಗುಣಪಡಿಸಲಾಗುವುದಿಲ್ಲ.",
+      "symptoms": "ಎಲೆಗಳು ಮೇಲಕ್ಕೆ ಮುದುಡಿ ಬಟ್ಟಲಿನಂತಾಗುತ್ತವೆ. ಎಲೆಗಳ ಅಂಚುಗಳು ಹಳದಿಯಾಗುತ್ತವೆ. ಸಸ್ಯದ ಬೆಳವಣಿಗೆ ತೀವ್ರವಾಗಿ ಕುಂಠಿತವಾಗುತ್ತದೆ.",
+      "treatment": "ಸೋಂಕಿತ ಸಸ್ಯಗಳಿಗೆ ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಇಲ್ಲ. ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆದು ನಾಶಮಾಡಿ. ಕೀಟನಾಶಕ ಸಾಬೂನು, ಬೇವಿನ ಎಣ್ಣೆ ಅಥವಾ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್‌ನಿಂದ ಬಿಳಿ ನೊಣ ಜನಸಂಖ್ಯೆ ನಿಯಂತ್ರಿಸಿ.",
+      "prevention": "TYLCV ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ. ಬಿಳಿ ನೊಣಗಳನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಲು ಪ್ರತಿಫಲಕ ಹೊದಿಕೆ ಹಾಕಿ. ಹಳದಿ ಅಂಟು ಬಲೆಗಳನ್ನು ಬಳಸಿ."
+    }
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "en": {
+      "disease": "Tomato Mosaic Virus (ToMV)",
+      "plant": "Tomato",
+      "cause": "Caused by Tomato Mosaic Virus, extremely contagious. Spreads through contaminated hands, tools, seeds, and soil. Can survive on surfaces for years.",
+      "symptoms": "Mottled light and dark green mosaic pattern on leaves. Leaves may be distorted, curled, or fern-like. Fruit may show uneven ripening with brown internal browning.",
+      "treatment": "No chemical cure available. Remove and destroy all infected plants. Wash hands with soap and milk solution before handling healthy plants. Disinfect all tools with 10% bleach.",
+      "prevention": "Use certified virus-free seeds. Wash hands thoroughly before gardening. Disinfect tools between plants. Do not smoke near plants (tobacco mosaic virus is related). Use resistant varieties."
+    },
+    "hi": {
+      "disease": "टमाटर मोज़ेक विषाणु (ToMV)",
+      "plant": "टमाटर",
+      "cause": "टमाटर मोज़ेक विषाणु के कारण होता है, अत्यंत संक्रामक। दूषित हाथों, उपकरणों, बीजों और मिट्टी से फैलता है। सतहों पर वर्षों तक जीवित रह सकता है।",
+      "symptoms": "पत्तियों पर हल्के और गहरे हरे रंग का धब्बेदार मोज़ेक पैटर्न। पत्तियां विकृत, मुड़ी हुई या फर्न जैसी हो सकती हैं। फलों में असमान पकना और भीतरी भूरापन दिख सकता है।",
+      "treatment": "कोई रासायनिक इलाज उपलब्ध नहीं। सभी संक्रमित पौधों को हटाकर नष्ट करें। स्वस्थ पौधों को छूने से पहले साबुन और दूध के घोल से हाथ धोएं। सभी उपकरणों को 10% ब्लीच से कीटाणुरहित करें।",
+      "prevention": "प्रमाणित विषाणु-मुक्त बीजों का उपयोग करें। बागवानी से पहले हाथ अच्छी तरह धोएं। पौधों के बीच उपकरणों को कीटाणुरहित करें। पौधों के पास धूम्रपान न करें।"
+    },
+    "kn": {
+      "disease": "ಟೊಮೆಟೊ ಮೊಸಾಯಿಕ್ ವೈರಸ್ (ToMV)",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಟೊಮೆಟೊ ಮೊಸಾಯಿಕ್ ವೈರಸ್‌ನಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಅತ್ಯಂತ ಸಾಂಕ್ರಾಮಿಕ. ಕಲುಷಿತ ಕೈಗಳು, ಉಪಕರಣಗಳು, ಬೀಜಗಳು ಮತ್ತು ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುತ್ತದೆ.",
+      "symptoms": "ಎಲೆಗಳ ಮೇಲೆ ತಿಳಿ ಮತ್ತು ಗಾಢ ಹಸಿರು ಮಚ್ಚೆಯುಕ್ತ ಮೊಸಾಯಿಕ್ ಮಾದರಿ. ಎಲೆಗಳು ವಿಕೃತ, ಮುದುಡಿದ ಅಥವಾ ಜರೀಗಿಡದಂತೆ ಆಗಬಹುದು.",
+      "treatment": "ಯಾವುದೇ ರಾಸಾಯನಿಕ ಚಿಕಿತ್ಸೆ ಲಭ್ಯವಿಲ್ಲ. ಎಲ್ಲಾ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ. ಆರೋಗ್ಯಕರ ಸಸ್ಯಗಳನ್ನು ಮುಟ್ಟುವ ಮೊದಲು ಸಾಬೂನು ಮತ್ತು ಹಾಲಿನ ದ್ರಾವಣದಿಂದ ಕೈ ತೊಳೆಯಿರಿ.",
+      "prevention": "ಪ್ರಮಾಣಿತ ವೈರಸ್-ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಬಳಸಿ. ತೋಟಗಾರಿಕೆ ಮೊದಲು ಕೈಗಳನ್ನು ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ. ಸಸ್ಯಗಳ ನಡುವೆ ಉಪಕರಣಗಳನ್ನು ಸೋಂಕುನಿವಾರಣೆ ಮಾಡಿ."
+    }
+  },
+  "Tomato_healthy": {
+    "en": {
+      "disease": "Healthy",
+      "plant": "Tomato",
+      "cause": "No disease detected.",
+      "symptoms": "No symptoms. The plant appears healthy with normal green foliage and good fruit development.",
+      "treatment": "No treatment needed. Continue regular care and maintenance.",
+      "prevention": "Maintain consistent watering schedule. Apply balanced fertilizer. Prune suckers for better air flow. Monitor regularly for early signs of disease or pests."
+    },
+    "hi": {
+      "disease": "स्वस्थ",
+      "plant": "टमाटर",
+      "cause": "कोई बीमारी नहीं पाई गई।",
+      "symptoms": "कोई लक्षण नहीं। पौधा सामान्य हरी पत्तियों और अच्छे फल विकास के साथ स्वस्थ दिखता है।",
+      "treatment": "किसी उपचार की आवश्यकता नहीं। नियमित देखभाल और रखरखाव जारी रखें।",
+      "prevention": "नियमित सिंचाई कार्यक्रम बनाए रखें। संतुलित उर्वरक दें। बेहतर वायु प्रवाह के लिए अतिरिक्त शाखाओं की छंटाई करें। रोग या कीटों के शुरुआती संकेतों की नियमित निगरानी करें।"
+    },
+    "kn": {
+      "disease": "ಆರೋಗ್ಯಕರ",
+      "plant": "ಟೊಮೆಟೊ",
+      "cause": "ಯಾವುದೇ ರೋಗ ಪತ್ತೆಯಾಗಿಲ್ಲ.",
+      "symptoms": "ಯಾವುದೇ ಲಕ್ಷಣಗಳಿಲ್ಲ. ಸಸ್ಯವು ಸಾಮಾನ್ಯ ಹಸಿರು ಎಲೆಗಳು ಮತ್ತು ಉತ್ತಮ ಹಣ್ಣಿನ ಬೆಳವಣಿಗೆಯೊಂದಿಗೆ ಆರೋಗ್ಯಕರವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "treatment": "ಯಾವುದೇ ಚಿಕಿತ್ಸೆ ಅಗತ್ಯವಿಲ್ಲ. ನಿಯಮಿತ ಆರೈಕೆ ಮತ್ತು ನಿರ್ವಹಣೆ ಮುಂದುವರಿಸಿ.",
+      "prevention": "ಸ್ಥಿರ ನೀರಾವರಿ ವೇಳಾಪಟ್ಟಿ ನಿರ್ವಹಿಸಿ. ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ಹಾಕಿ. ಉತ್ತಮ ಗಾಳಿ ಹರಿವಿಗಾಗಿ ಹೆಚ್ಚುವರಿ ಚಿಗುರುಗಳನ್ನು ಕತ್ತರಿಸಿ. ರೋಗ ಅಥವಾ ಕೀಟಗಳ ಆರಂಭಿಕ ಚಿಹ್ನೆಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಗಮನಿಸಿ."
+    }
+  }
+}
