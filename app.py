@@ -96,8 +96,12 @@ st.markdown("""
 # ─── Load Model and Data ───
 @st.cache_resource
 def load_model():
-    import tflite_runtime.interpreter as tflite
-    interpreter = tflite.Interpreter(model_path='model.tflite')
+    try:
+        import tflite_runtime.interpreter as tflite
+        interpreter = tflite.Interpreter(model_path='model.tflite')
+    except ImportError:
+        import tensorflow as tf
+        interpreter = tf.lite.Interpreter(model_path='model.tflite')
     interpreter.allocate_tensors()
     return interpreter
 
