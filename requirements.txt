@@ -1,5 +1,6 @@
 streamlit
-tflite-runtime
+tensorflow-cpu
 numpy
+pandas
 Pillow
 openai
