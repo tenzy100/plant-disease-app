@@ -1,4 +1,5 @@
 import streamlit as st
+
 import numpy as np
 from PIL import Image
 import json
@@ -96,12 +97,8 @@ st.markdown("""
 # ─── Load Model and Data ───
 @st.cache_resource
 def load_model():
-    try:
-        import tflite_runtime.interpreter as tflite
-        interpreter = tflite.Interpreter(model_path='model.tflite')
-    except ImportError:
-        import tensorflow as tf
-        interpreter = tf.lite.Interpreter(model_path='model.tflite')
+    import tensorflow as tf
+    interpreter = tf.lite.Interpreter(model_path='model.tflite')
     interpreter.allocate_tensors()
     return interpreter
 
@@ -338,21 +335,33 @@ with col1:
                 confidence = predictions[predicted_idx]
                 predicted_class = class_names[predicted_idx]
 
-                # Store in session state
-                st.session_state['prediction'] = {
-                    'class': predicted_class,
-                    'confidence': confidence,
-                    'predictions': predictions
-                }
+                # Sort predictions to get top 2
+                sorted_preds = np.sort(predictions)[::-1]
+                top1 = sorted_preds[0]
+                top2 = sorted_preds[1]
 
-                # Save to history
-                info = disease_info.get(predicted_class, {}).get(lang, {})
-                save_to_history(
-                    info.get('disease', predicted_class),
-                    confidence,
-                    info.get('plant', 'Unknown'),
-                    datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                )
+                # Reject if:
+                # 1. Confidence too low OR
+                # 2. Top prediction isn't much higher than second (model is confused)
+                is_valid = top1 >= 0.55 and (top1 - top2) >= 0.15
+
+                if not is_valid:
+                    st.session_state.pop('prediction', None)
+                    st.error("❌ This doesn't appear to be a valid plant leaf image. Please upload a clear, close-up photo of a single plant leaf (Pepper, Potato, or Tomato).")
+                else:
+                    st.session_state['prediction'] = {
+                        'class': predicted_class,
+                        'confidence': confidence,
+                        'predictions': predictions
+                    }
+
+                    info = disease_info.get(predicted_class, {}).get(lang, {})
+                    save_to_history(
+                        info.get('disease', predicted_class),
+                        confidence,
+                        info.get('plant', 'Unknown'),
+                        datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                    )
 
 with col2:
     if 'prediction' in st.session_state:
@@ -478,6 +487,6 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #888; padding: 1rem;">
-    <p>🌿 Plant Disease Detection System | Final Year Project | Powered by EfficientNetB0 + TFLite</p>
+    <p>🌿 Plant Disease Detection System| Powered by EfficientNetB0 + TFLite</p>
 </div>
 """, unsafe_allow_html=True)
